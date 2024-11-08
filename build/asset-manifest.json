@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4da241e.css",
+    "main.js": "/static/js/main.e26cfb87.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/chirag-pandya-resume.pdf": "/static/media/chirag-pandya-resume.e714bc3e6191d9f2d015.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.0c611f7b8a9c720abc1d.jpg",
+    "static/media/logo_3.png": "/static/media/logo_3.9b7597a9fffc801c158c.png",
+    "static/media/bubblegame.png": "/static/media/bubblegame.6cc02c2977eba08dbc5f.png",
+    "static/media/livetrack.png": "/static/media/livetrack.b87100298feef72ecbbd.png",
+    "static/media/vibify.png": "/static/media/vibify.892d9f83127a043cfa91.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.c4da241e.css.map": "/static/css/main.c4da241e.css.map",
+    "main.e26cfb87.js.map": "/static/js/main.e26cfb87.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4da241e.css",
+    "static/js/main.e26cfb87.js"
+  ]
+}
